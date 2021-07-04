@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/movinLabs/static/css/main.95534838.chunk.css",
+    "main.js": "/movinLabs/static/js/main.413e2ccf.chunk.js",
+    "main.js.map": "/movinLabs/static/js/main.413e2ccf.chunk.js.map",
+    "runtime-main.js": "/movinLabs/static/js/runtime-main.ced699dd.js",
+    "runtime-main.js.map": "/movinLabs/static/js/runtime-main.ced699dd.js.map",
+    "static/js/2.66f45dac.chunk.js": "/movinLabs/static/js/2.66f45dac.chunk.js",
+    "static/js/2.66f45dac.chunk.js.map": "/movinLabs/static/js/2.66f45dac.chunk.js.map",
+    "index.html": "/movinLabs/index.html",
+    "static/css/main.95534838.chunk.css.map": "/movinLabs/static/css/main.95534838.chunk.css.map",
+    "static/js/2.66f45dac.chunk.js.LICENSE.txt": "/movinLabs/static/js/2.66f45dac.chunk.js.LICENSE.txt",
+    "static/media/NRBMask.66204579.jpg": "/movinLabs/static/media/NRBMask.66204579.jpg",
+    "static/media/RTPCR.84bb2e39.jpg": "/movinLabs/static/media/RTPCR.84bb2e39.jpg",
+    "static/media/anitbody.8ef9c95d.jpg": "/movinLabs/static/media/anitbody.8ef9c95d.jpg",
+    "static/media/antigen.e7ca5d0b.jpg": "/movinLabs/static/media/antigen.e7ca5d0b.jpg",
+    "static/media/banner.45b0687b.png": "/movinLabs/static/media/banner.45b0687b.png",
+    "static/media/bipapcipapmachine.85aceb30.jpg": "/movinLabs/static/media/bipapcipapmachine.85aceb30.jpg",
+    "static/media/cpapmask.0f169001.jpg": "/movinLabs/static/media/cpapmask.0f169001.jpg",
+    "static/media/ellisa.7bf7e463.jpg": "/movinLabs/static/media/ellisa.7bf7e463.jpg",
+    "static/media/filler_tips.e343c3d4.jpg": "/movinLabs/static/media/filler_tips.e343c3d4.jpg",
+    "static/media/latex.3d665a83.jpg": "/movinLabs/static/media/latex.3d665a83.jpg",
+    "static/media/logo.8ef8327b.svg": "/movinLabs/static/media/logo.8ef8327b.svg",
+    "static/media/oxygen_concentrator.8878075f.jpg": "/movinLabs/static/media/oxygen_concentrator.8878075f.jpg",
+    "static/media/oxygencannula.9f92a499.jpg": "/movinLabs/static/media/oxygencannula.9f92a499.jpg",
+    "static/media/oxygenmask.b8fca2f4.jpg": "/movinLabs/static/media/oxygenmask.b8fca2f4.jpg",
+    "static/media/pcr_plate.1cccdad6.jpg": "/movinLabs/static/media/pcr_plate.1cccdad6.jpg",
+    "static/media/pcr_plates.f9ac5c3e.jpg": "/movinLabs/static/media/pcr_plates.f9ac5c3e.jpg",
+    "static/media/pipette.80404c97.jpg": "/movinLabs/static/media/pipette.80404c97.jpg",
+    "static/media/ppekit.d0b30e92.jpg": "/movinLabs/static/media/ppekit.d0b30e92.jpg",
+    "static/media/product.e965c34a.png": "/movinLabs/static/media/product.e965c34a.png",
+    "static/media/product1.12cb9611.png": "/movinLabs/static/media/product1.12cb9611.png",
+    "static/media/product2.185b46fa.png": "/movinLabs/static/media/product2.185b46fa.png",
+    "static/media/rna_extraction.8e05317d.jpg": "/movinLabs/static/media/rna_extraction.8e05317d.jpg",
+    "static/media/vipeg.1d010a87.jpg": "/movinLabs/static/media/vipeg.1d010a87.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ced699dd.js",
+    "static/js/2.66f45dac.chunk.js",
+    "static/css/main.95534838.chunk.css",
+    "static/js/main.413e2ccf.chunk.js"
+  ]
+}
