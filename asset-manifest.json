@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/movinLabs/static/css/main.95534838.chunk.css",
-    "main.js": "/movinLabs/static/js/main.e17a46ce.chunk.js",
-    "main.js.map": "/movinLabs/static/js/main.e17a46ce.chunk.js.map",
+    "main.js": "/movinLabs/static/js/main.ada246de.chunk.js",
+    "main.js.map": "/movinLabs/static/js/main.ada246de.chunk.js.map",
     "runtime-main.js": "/movinLabs/static/js/runtime-main.ced699dd.js",
     "runtime-main.js.map": "/movinLabs/static/js/runtime-main.ced699dd.js.map",
-    "static/js/2.66f45dac.chunk.js": "/movinLabs/static/js/2.66f45dac.chunk.js",
-    "static/js/2.66f45dac.chunk.js.map": "/movinLabs/static/js/2.66f45dac.chunk.js.map",
+    "static/js/2.52c48263.chunk.js": "/movinLabs/static/js/2.52c48263.chunk.js",
+    "static/js/2.52c48263.chunk.js.map": "/movinLabs/static/js/2.52c48263.chunk.js.map",
     "index.html": "/movinLabs/index.html",
     "static/css/main.95534838.chunk.css.map": "/movinLabs/static/css/main.95534838.chunk.css.map",
-    "static/js/2.66f45dac.chunk.js.LICENSE.txt": "/movinLabs/static/js/2.66f45dac.chunk.js.LICENSE.txt",
+    "static/js/2.52c48263.chunk.js.LICENSE.txt": "/movinLabs/static/js/2.52c48263.chunk.js.LICENSE.txt",
     "static/media/NRBMask.66204579.jpg": "/movinLabs/static/media/NRBMask.66204579.jpg",
     "static/media/RTPCR.84bb2e39.jpg": "/movinLabs/static/media/RTPCR.84bb2e39.jpg",
     "static/media/anitbody.8ef9c95d.jpg": "/movinLabs/static/media/anitbody.8ef9c95d.jpg",
@@ -36,8 +36,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ced699dd.js",
-    "static/js/2.66f45dac.chunk.js",
+    "static/js/2.52c48263.chunk.js",
     "static/css/main.95534838.chunk.css",
-    "static/js/main.e17a46ce.chunk.js"
+    "static/js/main.ada246de.chunk.js"
   ]
 }
