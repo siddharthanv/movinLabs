@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.043588d9.chunk.css",
-    "main.js": "/static/js/main.1eed92d4.chunk.js",
-    "main.js.map": "/static/js/main.1eed92d4.chunk.js.map",
+    "main.css": "/static/css/main.c7c28d73.chunk.css",
+    "main.js": "/static/js/main.5a5a849b.chunk.js",
+    "main.js.map": "/static/js/main.5a5a849b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fc4772e3.js",
     "runtime-main.js.map": "/static/js/runtime-main.fc4772e3.js.map",
-    "static/js/2.d4e757a2.chunk.js": "/static/js/2.d4e757a2.chunk.js",
-    "static/js/2.d4e757a2.chunk.js.map": "/static/js/2.d4e757a2.chunk.js.map",
+    "static/js/2.1e71fb35.chunk.js": "/static/js/2.1e71fb35.chunk.js",
+    "static/js/2.1e71fb35.chunk.js.map": "/static/js/2.1e71fb35.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.043588d9.chunk.css.map": "/static/css/main.043588d9.chunk.css.map",
-    "static/js/2.d4e757a2.chunk.js.LICENSE.txt": "/static/js/2.d4e757a2.chunk.js.LICENSE.txt",
+    "static/css/main.c7c28d73.chunk.css.map": "/static/css/main.c7c28d73.chunk.css.map",
+    "static/js/2.1e71fb35.chunk.js.LICENSE.txt": "/static/js/2.1e71fb35.chunk.js.LICENSE.txt",
+    "static/media/InfraThermometer.691affde.jpg": "/static/media/InfraThermometer.691affde.jpg",
     "static/media/NRBMask.66204579.jpg": "/static/media/NRBMask.66204579.jpg",
     "static/media/RTPCR.84bb2e39.jpg": "/static/media/RTPCR.84bb2e39.jpg",
+    "static/media/S9.6bc5e34d.jpg": "/static/media/S9.6bc5e34d.jpg",
     "static/media/anitbody.8ef9c95d.jpg": "/static/media/anitbody.8ef9c95d.jpg",
     "static/media/antigen.e7ca5d0b.jpg": "/static/media/antigen.e7ca5d0b.jpg",
     "static/media/banner.45b0687b.png": "/static/media/banner.45b0687b.png",
@@ -29,15 +31,15 @@
     "static/media/pipette.80404c97.jpg": "/static/media/pipette.80404c97.jpg",
     "static/media/ppekit.d0b30e92.jpg": "/static/media/ppekit.d0b30e92.jpg",
     "static/media/product.e965c34a.png": "/static/media/product.e965c34a.png",
-    "static/media/product1.12cb9611.png": "/static/media/product1.12cb9611.png",
-    "static/media/product2.185b46fa.png": "/static/media/product2.185b46fa.png",
+    "static/media/product1.d8154e07.jpg": "/static/media/product1.d8154e07.jpg",
+    "static/media/product2.92d270f0.jpg": "/static/media/product2.92d270f0.jpg",
     "static/media/rna_extraction.8e05317d.jpg": "/static/media/rna_extraction.8e05317d.jpg",
     "static/media/vipeg.1d010a87.jpg": "/static/media/vipeg.1d010a87.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.fc4772e3.js",
-    "static/js/2.d4e757a2.chunk.js",
-    "static/css/main.043588d9.chunk.css",
-    "static/js/main.1eed92d4.chunk.js"
+    "static/js/2.1e71fb35.chunk.js",
+    "static/css/main.c7c28d73.chunk.css",
+    "static/js/main.5a5a849b.chunk.js"
   ]
 }
